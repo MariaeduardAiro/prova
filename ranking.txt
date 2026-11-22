@@ -1,0 +1,4 @@
+1;Mochila;40.0;Alto
+2;Caneta;20.0;Médio
+3;Caderno;14.0;Médio
+4;Borracha;4.5;Baixo
